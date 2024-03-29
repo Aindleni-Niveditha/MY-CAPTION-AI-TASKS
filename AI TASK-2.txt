@@ -1,0 +1,5 @@
+1.Virtual Personal Assistants: Siri and Google Assistant help with tasks like setting reminders and sending messages.
+2.Recommendation Systems: Netflix suggests movies you might like based on what you've watched before.
+3.Smart Home Devices: Smart thermostats adjust the temperature based on your preferences.
+4.Autonomous Vehicles: Self-driving cars use AI to drive safely without a human driver.
+5.Fraud Detection: Banks use AI to detect and stop fraudulent transactions on your credit card.
